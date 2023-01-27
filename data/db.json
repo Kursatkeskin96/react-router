@@ -1,0 +1,22 @@
+{
+  "cities": [
+    {
+        "id": 1,
+        "Country": "Spain",
+        "City": "Barcelona",
+        "Travel Price": "200$"
+    },
+    {
+        "id": 2,
+        "Country": "Italy",
+        "City": "Milano",
+        "Travel Price": "250$"
+    },
+    {
+        "id": 3,
+        "Country": "Germany",
+        "City": "Berlin",
+        "Travel Price": "350$"
+    }
+  ]
+}
